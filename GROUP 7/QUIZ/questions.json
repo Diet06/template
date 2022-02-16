@@ -1,0 +1,82 @@
+[
+  {
+    "question": "It is one of the parts of a computer, sometimes it is known as chassis, or cabinet. ",
+    "choice1": "System unit",
+    "choice2": "Random access memory",
+    "choice3": "Video card",
+    "choice4": "Central processing unit",
+    "answer": 1
+  },
+  {
+    "question": ".RAM Stands for: ",
+    "choice1": "Random Access Memory",
+    "choice2": "Random Acces Memory",
+    "choice3": "Random Access Memories",
+    "choice4": "Random Access Mutual",
+    "answer": 1
+  },
+  {
+    "question": "A part of a computer which is responsible for computer display:",
+    "choice1": "Video card",
+    "choice2": "Monitor",
+    "choice3": "Motherboard",
+    "choice4": "Hard disk drive",
+    "answer": 1
+  },
+  {
+    "question": "A computer part which is a non-volatile storage device, is called:",
+    "choice1": "Video card",
+    "choice2": "Monitor",
+    "choice3": "Motherboard",
+    "choice4": "Hard disk drive",
+    "answer": 4
+  },
+  {
+    "question": "It is a part of computer where all components are located, a backbone that ties all components at one spot.",
+    "choice1": "Video card",
+    "choice2": "Monitor",
+    "choice3": "Motherboard",
+    "choice4": "Hard disk drive",
+    "answer": 3
+  },
+  {
+    "question": "To mount the memory on step 6, what should you do firts?",
+    "choice1": "Press the open clips at the end of the RAM mounting slots.",
+    "choice2": "Press the close clips at the end of the RAM mounting slots.",
+    "choice3": "Press the close clips at RAM mounting slots.",
+    "choice4": "Press the open clips at the end of the Socket RAM mounting slots.",
+    "answer": 1
+  },
+  {
+    "question": "Which step is the Installation of Graphics Card? ",
+    "choice1": "Step 7",
+    "choice2": "Step 2",
+    "choice3": "Step 4",
+    "choice4": "Step 1",
+    "answer": 1
+  },
+  {
+    "question": "In tools, which of the items below are required for building a PC? Exept.",
+    "choice1": "Cable ties",
+    "choice2": "Anti-static-Wrist-Strap",
+    "choice3": "Plice",
+    "choice4": "Screw drivers",
+    "answer": 3
+  },
+  {
+    "question": "After Mounting the CPU on the motherboard, what should you do next? ",
+    "choice1": "Install Cpu cooler",
+    "choice2": "Scan the virus",
+    "choice3": "restart the computer",
+    "choice4": "Shutdown the computer",
+    "answer": 1
+  },
+  {
+    "question": "According to the video animation you've watched. How many steps are there in order to build your PC? ",
+    "choice1": "Step 7",
+    "choice2": "Step 12",
+    "choice3": "Step 11",
+    "choice4": "Step 1",
+    "answer": 3
+  }
+]
